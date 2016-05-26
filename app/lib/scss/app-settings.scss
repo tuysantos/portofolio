@@ -1,0 +1,13 @@
+.bbb {
+  color: #c0c0c0;
+
+  a {
+    text-decoration: none;
+    background-color: #ffff;
+    font-weight: 600;
+
+    &:hover {
+      color: #ffffff;
+    }
+  }
+}
